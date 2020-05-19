@@ -1,0 +1,16 @@
+html
+{
+	scroll-behavior: smooth;
+}
+
+ul
+{
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.bg-burnt
+{
+	background-color: #f4c631;
+}
+
