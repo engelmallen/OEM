@@ -14,3 +14,13 @@ ul
 	background-color: #f4c631;
 }
 
+.hoverDarker:hover
+{
+	background: #EBEBEB !important;
+	transition: 0.5s;
+}
+
+.index-front
+{
+	z-index: 1000;
+}
